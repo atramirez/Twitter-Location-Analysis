@@ -14,11 +14,18 @@ Twitter at the time with generous API access being our platform of choice to inv
 ## Authors
 
 - [atramirez](https://github.com/atramirez)
+
 - [Abdur-Rehman Naveed](https://github.com/TheAilurusFulgens)
+
 - [Amit-Nankar](https://github.com/Amit-Nankar)
+
 - [lcdomin1](https://github.com/lcdomin1)
 
 ## Directory Structure
+
+- `data_scrape`: All scripts used in data collection
+
+- `util`: Utility software
 
 ## Usage
 
