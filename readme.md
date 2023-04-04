@@ -9,7 +9,7 @@ This repository is all the code and methods used to complete an open ended proje
 
 The goal was to investigate the amount of data that could be found in social media that could be used for undesirable use cases.
 Initially thinking of how location data plays into ads and how it can easily be intrusive we narrowed down to investigating risky location data people could be giving up without realizing the damage a motivated party could use it for.
-Twitter at the time with generous API access being our platform of choice to investigate, which during the course of the project changed to a paid model. Using a popular scraping library [SNScrape](https://github.com/JustAnotherArchivist/snscrape) allowed us to move ofrward and showcase the danagers of easily accessible data for those who use location services on socail media, specifically Twitter.
+Twitter at the time with generous API access being our platform of choice to investigate, which during the course of the project changed to a paid model. Using a popular scraping library [SNScrape](https://github.com/JustAnotherArchivist/snscrape) allowed us to move forward and showcase the dangers of easily accessible data for those who use location services on social media, specifically Twitter.
 
 ## Authors
 
@@ -31,7 +31,7 @@ Twitter at the time with generous API access being our platform of choice to inv
 
 ## Documentation
 
-- All code documentation is found within file and readme per directory
+- Some code and directory documentation is found within file and readme per directory
 
 - High level technical documentation can be found on the wiki
 
