@@ -21,13 +21,16 @@ Twitter at the time with generous API access being our platform of choice to inv
 
 - [lcdomin1](https://github.com/lcdomin1)
 
+## Build and Run
+
+- Recrate the project and run information [here](https://github.com/atramirez/Twitter-Location-Analysis/wiki/Recreating-Project)
+- [Poetry](https://python-poetry.org/docs/basic-usage/): install dependencies: `poetry install`
+
 ## Directory Structure
 
 - `data_scrape`: All scripts used in data collection
 
 - `util`: Utility software
-
-## Usage
 
 ## Documentation
 
@@ -35,4 +38,6 @@ Twitter at the time with generous API access being our platform of choice to inv
 
 - High level technical documentation can be found on the wiki
 
-- Reports from the project can here found [here]().
+- Reports from the project can here found [here](https://github.com/atramirez/Twitter-Location-Analysis/tree/master/docs).
+
+- Recrate the project and run information [here](https://github.com/atramirez/Twitter-Location-Analysis/wiki/Recreating-Project)

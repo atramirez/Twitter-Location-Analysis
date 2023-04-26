@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "twitter-location-analysis"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "util"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "1.5.1"
+geopandas = "^0.12.2"
+snscrape = "^0.6.2.20230320"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
